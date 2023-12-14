@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+}
+
+.card {
+    background-color: rosybrown;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    max-width: 200px;
+}
+
+input{
+    display: block;
+    width: calc(100% - 14px);
+    padding: 7px;
+    margin-bottom: 14px;
+}
+
+button{
+    border-radius: 10px;
+    border-color: #f4f4f4;
+    background-color: #f4f4f4;
+}
+
+.form-group{
+    border-radius: 10px;
+}
